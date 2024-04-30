@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Blog": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\alexa\\Documents\\Blog\\WaitWhat\\src C:\\Users\\alexa\\Documents\\Blog\\WaitWhat\\pub"
+    }
+  }
+}
